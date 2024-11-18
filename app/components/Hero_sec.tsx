@@ -23,8 +23,8 @@ function Hero() {
           <br />
           <img src="/images/resume-download-button.png" alt="button" />
         </div>
-        <div className="hero-image">
-          <Image src="/images/hero.png" alt="hero" width={292} height={299} />
+        <div className="absolute w-[298px] h-[308px] top-[300px] left-[863px]">
+          <Image src="/images/hero.png" alt="hero" width={298} height={308} />
         </div>
         <br />
       </div>
